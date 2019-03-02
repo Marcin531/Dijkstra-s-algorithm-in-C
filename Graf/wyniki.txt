@@ -1,0 +1,147 @@
+
+Dla danego wierzcholka o indeksie 0, odleglosc do najblizszego sklepu wynosi: 4.5, pokonasz ja w czasie 54 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 1, odleglosc do najblizszego sklepu wynosi: 2.5, pokonasz ja w czasie 30 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 2, odleglosc do najblizszego sklepu wynosi: 2.5, pokonasz ja w czasie 30 minut i 0 sekund.
+Jest to sklep o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 3, odleglosc do najblizszego sklepu wynosi: 1.5, pokonasz ja w czasie 18 minut i 0 sekund.
+Jest to sklep o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 4, odleglosc do najblizszego sklepu wynosi: 5.5, pokonasz ja w czasie 66 minut i 0 sekund.
+Jest to sklep o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 5, odleglosc do najblizszego sklepu wynosi: 3.5, pokonasz ja w czasie 42 minut i 0 sekund.
+Jest to sklep o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 6, odleglosc do najblizszego sklepu wynosi: 2.5, pokonasz ja w czasie 30 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 7, odleglosc do najblizszego sklepu wynosi: 3.0, pokonasz ja w czasie 36 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 8, odleglosc do najblizszego sklepu wynosi: 2.0, pokonasz ja w czasie 24 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+SKLEP o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 10, odleglosc do najblizszego sklepu wynosi: 4.0, pokonasz ja w czasie 48 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 11, odleglosc do najblizszego sklepu wynosi: 2.0, pokonasz ja w czasie 24 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+SKLEP o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 13, odleglosc do najblizszego sklepu wynosi: 2.0, pokonasz ja w czasie 24 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 14, odleglosc do najblizszego sklepu wynosi: 3.0, pokonasz ja w czasie 36 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+Dla danego wierzcholka o indeksie 15, odleglosc do najblizszego sklepu wynosi: 6.0, pokonasz ja w czasie 72 minut i 0 sekund.
+Jest to sklep o indeksie: 12. 
+
+SKLEP o indeksie: 16. 
+
+Dla danego wierzcholka o indeksie 17, odleglosc do najblizszego sklepu wynosi: 2.3, pokonasz ja w czasie 27 minut i 35 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 18, odleglosc do najblizszego sklepu wynosi: 2.0, pokonasz ja w czasie 24 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 19, odleglosc do najblizszego sklepu wynosi: 2.1, pokonasz ja w czasie 25 minut i 12 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 20, odleglosc do najblizszego sklepu wynosi: 2.0, pokonasz ja w czasie 24 minut i 0 sekund.
+Jest to sklep o indeksie: 9. 
+
+Dla danego wierzcholka o indeksie 21, odleglosc do najblizszego sklepu wynosi: 0.5, pokonasz ja w czasie 6 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+SKLEP o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 23, odleglosc do najblizszego sklepu wynosi: 0.5, pokonasz ja w czasie 6 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 24, odleglosc do najblizszego sklepu wynosi: 2.5, pokonasz ja w czasie 30 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 25, odleglosc do najblizszego sklepu wynosi: 1.5, pokonasz ja w czasie 18 minut i 0 sekund.
+Jest to sklep o indeksie: 22. 
+
+Dla danego wierzcholka o indeksie 26, odleglosc do najblizszego sklepu wynosi: 1.8, pokonasz ja w czasie 21 minut i 35 sekund.
+Jest to sklep o indeksie: 22. 
+
+
+ Sciezka dla domu nr: 0
+0 -> 1 -> 21 -> 22 
+
+ Sciezka dla domu nr: 1
+1 -> 21 -> 22 
+
+ Sciezka dla domu nr: 2
+2 -> 3 -> 9 
+
+ Sciezka dla domu nr: 3
+3 -> 9 
+
+ Sciezka dla domu nr: 4
+4 -> 3 -> 9 
+
+ Sciezka dla domu nr: 5
+5 -> 3 -> 9 
+
+ Sciezka dla domu nr: 6
+6 -> 12 
+
+ Sciezka dla domu nr: 7
+7 -> 8 -> 12 
+
+ Sciezka dla domu nr: 8
+8 -> 12 
+
+ Sciezka dla domu nr: 10
+10 -> 8 -> 12 
+
+ Sciezka dla domu nr: 11
+11 -> 12 
+
+ Sciezka dla domu nr: 13
+13 -> 12 
+
+ Sciezka dla domu nr: 14
+14 -> 13 -> 12 
+
+ Sciezka dla domu nr: 15
+15 -> 14 -> 13 -> 12 
+
+ Sciezka dla domu nr: 17
+17 -> 18 -> 26 -> 25 -> 23 -> 22 
+
+ Sciezka dla domu nr: 18
+18 -> 26 -> 25 -> 23 -> 22 
+
+ Sciezka dla domu nr: 19
+19 -> 18 -> 26 -> 25 -> 23 -> 22 
+
+ Sciezka dla domu nr: 20
+20 -> 9 
+
+ Sciezka dla domu nr: 21
+21 -> 22 
+
+ Sciezka dla domu nr: 23
+23 -> 22 
+
+ Sciezka dla domu nr: 24
+24 -> 23 -> 22 
+
+ Sciezka dla domu nr: 25
+25 -> 23 -> 22 
+
+ Sciezka dla domu nr: 26
+26 -> 25 -> 23 -> 22 
